@@ -1,0 +1,4 @@
+<resources>
+    <string name="AppLabel">计算器</string>
+    <string name="LastResult">上一个\n结果</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/btnAddListener"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="绑定监听器"
+        android:textSize="25sp"
+        android:layout_marginTop="25dip"
+        />
+    <Button
+        android:id="@+id/btnUnAddlistener"
+        android:layout_marginTop="25dip"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="解除监听器绑定"
+        android:textSize="25sp"
+        />
+
+</LinearLayout>
